@@ -10,6 +10,16 @@
     margin-left: -35px;
     width: 7%;
 }
+.title {
+    font-display: flex;
+    margin-left: 4%;
+    margin-top: -2.95%;
+    font-size: 205%;
+    font-family: 'Rubik 80s Fade', cursive;
+    color:rgb(3, 18, 31);
+    width: 40%;
+    border-radius: 20%;
+}
 #result {
     display: none;
 }
